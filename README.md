@@ -1,4 +1,3 @@
-Notepad-Plus-Plus
-=================
+# Notepad++
 
-My configuration files Notepad++
+> My preferences in Notepad++
